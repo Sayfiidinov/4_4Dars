@@ -1,0 +1,32 @@
+.svg{
+  margin-right: 52px;
+  border: solid 1px black;
+  padding: 5px 25px;
+  border-radius: 5px;
+  
+}
+.text{
+  text-align: center;
+  padding: 64px 0px;
+  background-color: black;
+}
+.text h1{
+  color: aliceblue;
+
+}
+.text p{
+  color: darkgray;
+}
+.card a{
+ background-color: white !important;
+ color: black !important;
+}
+
+.rang{
+  background-color: rgb(81, 35, 35);
+  padding: 70px 40px;
+}
+.rasim{
+  position: relative;
+  padding: 16px;
+}
